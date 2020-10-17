@@ -1,5 +1,5 @@
 ##Assignment Solution
 
-[](https://repl.it/@Drogondev/GoldenAliceblueProjections)
+[Solution](https://repl.it/@Drogondev/GoldenAliceblueProjections)
 
 4295
