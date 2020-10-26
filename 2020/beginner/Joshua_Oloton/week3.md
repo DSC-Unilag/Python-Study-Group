@@ -1,9 +1,5 @@
-# WEEK3 ASSESSMENT
+### WEEK 3 ASSESSMENT
 
-Submission link:
+[My Submission](repl.it/@Josh2302/Week3Assessment#main.py)
 
-## repl.it/@Josh2302/Week3Assessment#main.py
-
-Last 4 digits of Whatsapp No:
-
-## 6046
+6046
