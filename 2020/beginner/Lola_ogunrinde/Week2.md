@@ -13,9 +13,20 @@ Also, you didn't even put and descriptive notes
 what each function in your program did.
 Next time you can use triple quote (""" YOUR DESCRIPTION""")
 
+I tested using a number outside the the options given 
+and immediately your code broke..
+After your..
+if question == 1:
+    .....
+else:
+    print('ERROR MESSAGE')
+    question = input('Select a number: 1,2,3 or 4')
+
+NOTE: you are supposed to ask for another input if the initial input was wrong
+    
+
 For your is_prime function, you expected a parameter "n"
 Because in your function definition I saw...
-
 
 is_prime(n)
 
