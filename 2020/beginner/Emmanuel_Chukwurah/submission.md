@@ -2,6 +2,10 @@
 
 [Week two REPL LINK](https://repl.it/@chukwurahEmma/TremendousWordyNagware)
 
+### Feedback
+
+Questions 1, 2 and 3 look well written for that point in time, nice job. Remember the zen of python (To view, ```import this```), its very helpful.
+
 [Week three REPL LINK ](https://repl.it/@chukwurahEmma/week-3-assessment)
 
 ### Feedback
