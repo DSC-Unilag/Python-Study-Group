@@ -7,7 +7,11 @@
 ### Feedback
 1. For the first question, your function was to take in 3 arguements which are the number of  seats per class. So the inputs should have been outside. That asides, it looks good.
 
-2. This looks good too. Two things, one is that numbers greater than half of another number cannot be primes so there is no need to loop till ```num```, instead loop till num//2. Also, the part of your condition that says ```i != num``` is not necessary since the range stops at ```num -1```.
+2. This looks good too. Two things, one is that numbers greater than half of another number cannot be primes so there is no need to loop till ```num```, instead loop till ```num//2```. Also, the part of your condition that says ```i != num``` is not necessary since the range stops at ```num -1```.
+
+3. Asides the fact that your function should have taken an arguement instead of the input being within it, nicely done. Again, there is no need to loop till ```num```, instead loop till ```num//2```
+
+4. I like the your perspective as regards the while condition. Nice. Check out the ```.readlines()``` function. In this case, it would have helped make things simpler.
 
 
 
