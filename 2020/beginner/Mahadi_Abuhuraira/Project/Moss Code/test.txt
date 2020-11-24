@@ -1,0 +1,3 @@
+This is a test file that was used to test the morse code file in order to see how well it functuons
+Each character is encoded and then characters are joined to form words
+finally words are joined to form the entire file content
