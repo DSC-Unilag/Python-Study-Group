@@ -1,4 +1,4 @@
-## My week 4 Submission
+## My week 2 Submission
 
 (https://repl.it/@demonohu/Week4#main.py)
 
